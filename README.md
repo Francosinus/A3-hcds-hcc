@@ -1,19 +1,13 @@
-# Human-centered Data Science - Winter Term 2020
-This repository contains all material needed to participate in the course [Human-centered Data Science][1] of the research group [Human-Centered Computing (HCC)][2] at Freie Universität Berlin.
+# Bla
 
-## First things first
-1. The repository (code section) contains everything related to the programming assignments we will do throughout the course.
-1. All other information (lecture slides, assignment instructions, etc.) you find in the :arrow\_right: [wiki][3]:arrow\_left:.
-1. You should also clone the wiki by running `git clone https://github.com/FUB-HCC/hcds-winter-2020.wiki.git` or `git clone git@github.com:FUB-HCC/hcds-winter-2020.wiki.git`.
-3. You need to clone the code repository in order to deliver your assignments or to test/run the code of fellow students.
 
 ## Getting started
 
-We use the  "Amazing Python Data Workflow with Poetry, Pandas, and Jupyter"<sup>[1]</sup> to make sure everyone in the course uses the same environment and we don't run into any dependency hell :volcano:.
+The "Amazing Python Data Workflow with Poetry, Pandas, and Jupyter"<sup>[1]</sup> is used for this project.
 
 ### Prerequisites
 
-In order to take part in the course, please ensure that you have a Python version greater or equal to `3.6.1`, a working installation of [Poetry][4] and [git][5] installed.
+In order to take part in the course, please ensure that you have a Python version greater or equal to `3.6.1`, a working installation of [Poetry][1] and [git][2] installed.
 
 
 ### Setup
@@ -58,8 +52,5 @@ xlrd = "^1.2.0"
 ---- 
 `[1]` https://mungingdata.com/python/jupyter-workflow-poetry-pandas/, accessed: 2020-10-28
 
-[1]:	https://www.mi.fu-berlin.de/en/inf/groups/hcc/teaching/winter_term_2020_21/course_human_centered_data_science.html
-[2]:	https://www.mi.fu-berlin.de/en/inf/groups/hcc/index.html
-[3]:	https://github.com/FUB-HCC/hcds-winter-2020/wiki
-[4]:	https://python-poetry.org/docs/
-[5]:	https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+[1]:	https://python-poetry.org/docs/
+[2]:	https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
