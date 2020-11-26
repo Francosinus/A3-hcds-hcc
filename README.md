@@ -35,17 +35,17 @@ In order to take part in the course, please ensure that you have a Python versio
 
 	jupyter notebook
 	
-Dependencies:
-``python = "^3.6.1"
-pandas = "^1.1.3"
-jupyter = "^1.0.0"
-ipykernel = "^5.3.4"
-requests = "^2.24.0"
-matplotlib = "^3.3.2"
-seaborn = "^0.11.0"
-altair = "^4.1.0"
-bs4 = "^0.0.1"
-xlrd = "^1.2.0" ``
+Dependencies:  
+`python = "^3.6.1"  
+pandas = "^1.1.3"  
+jupyter = "^1.0.0"  
+ipykernel = "^5.3.4"  
+requests = "^2.24.0"  
+matplotlib = "^3.3.2"  
+seaborn = "^0.11.0"  
+altair = "^4.1.0"  
+bs4 = "^0.0.1"  
+xlrd = "^1.2.0" `   
 
 ## Troubleshooting
 
