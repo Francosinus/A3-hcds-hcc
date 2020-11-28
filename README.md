@@ -79,6 +79,7 @@ The analysis consists of calculating the proportion (as a percentage) of article
 * if a country has a population of `10,000` people, and you found `10` articles about politicians from that country, then the percentage of `articles-per-population` would be `0.1%`.
 * if a country has `10` articles about politicians, and `2` of them are `FA` or `GA` class articles, then the percentage of `high-quality-articles` would be `20%`.
 
+The final atbles can be found in the folder [Results](https://github.com/Francosinus/A3-hcds-hcc/tree/main/results).
 
 ## Troubleshooting
 
