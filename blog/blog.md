@@ -21,7 +21,7 @@ From a human-centered perspective, the algorithm does poorly, because variables 
 
 ## A3 - Wikipedia, ORES, and BIAS
 
-**Repository:** https://github.com/Francosinus/A3-hcds-hcc/main/blog/blog.md
+**Repository:** https://github.com/Francosinus/A3-hcds-hcc
 
 ### Reflections and implications
 
